@@ -250,7 +250,7 @@ Offset is from beginning of block.
 | `0000` |   | No. of var data | 10 | 2 | 0 |
 | `4f30303030303031` | 37 | OrderID | 8 | 8 | O0000001 |
 | `4558454330303030` | 17 | ExecID | 8 | 8 | EXEC0000 |
-| `31` | 39 | OrdStatus | 1 | 1 | PartialFilled |
+| `31` | 39 | OrdStatus | 1 | 1 | PartiallyFilled |
 | `47454d3400000000` | 55 | Symbol | 18 | 8 | GEM4 |
 | `de0706ffff` | 200 | MaturityMonthYear | 26 | 5 | year=2014 month=6 |
 | `31` | 54 | Side | 1 | 1 | Buy |
